@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Това е моя първи блог в github"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Настоящият сайт представлява учебно-тренировъчна Интернет страница, с цел базово запознаване с възможностите на github pages. :)
